@@ -10,8 +10,11 @@ body{
 
 
 
-/*Navigation styles*/nav{
+/*Navigation styles*/
+nav{
 background-color: skyblue;
+text-align:center;
+font-family:Titillum Web;
 }
 nav ul{
 	list-style: none;

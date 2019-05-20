@@ -5,10 +5,19 @@
 }
 
 body{
-	background-color:#D0D3D4   ;
+	background-color:#D0D3D4 ;
+	background-image: url("pc.jpg");
+	margin:auto;
+	width:80%;
 }
 
+.imgs{
+	column-count: 2;
+}
 
+img{
+	width: 90%;
+}
 
 /*Navigation styles*/nav{
 background-color: #D40000;
